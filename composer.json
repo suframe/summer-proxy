@@ -1,0 +1,21 @@
+{
+  "name": "suframe/summer-proxy",
+  "description": "summer proxy app",
+  "authors": [
+    {
+      "name": "qian",
+      "email": "330576744@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "suframe/proxy": "^0.1"
+  },
+  "require-dev": {
+    "swoole/ide-helper": "@dev"
+  }
+}
