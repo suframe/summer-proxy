@@ -13,7 +13,7 @@
     }
   },
   "require": {
-    "suframe/proxy": "^0.1"
+    "suframe/proxy": "dev-master"
   },
   "require-dev": {
     "swoole/ide-helper": "@dev"
