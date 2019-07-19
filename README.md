@@ -14,7 +14,7 @@ summer proxy
 ## 创建服务
 
 ~~~
-composer coreate-project suframe/summer-proxy
+composer create-project suframe/summer-proxy
 php app/summer tcp:start
 ~~~
 
